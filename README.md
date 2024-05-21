@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Armando's GitHub stats](https://github-readme-stats.dark.app/api?username=armd76)](https://github.com/armd76/github-readme-stats)
+[![Armando's GitHub stats](https://github-readme-stats.vercel.app/api?username=armd76&show_icons=true&theme=dark)](https://github.com/armd76/github-readme-stats)
+
 <!--
 **ARMD76/ARMD76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
